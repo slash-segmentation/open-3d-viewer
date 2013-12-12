@@ -1,0 +1,49 @@
+# Parts
+
+obj1_nuclear_outer_membrane
+	id: 5001
+	type: part
+	display_name_en_us: nuclear membrane
+	synonyms_en_us: nucleus
+
+obj2_mitochondrial_membrane_outer
+	id: 5002
+	type: part
+	display_name_en_us: mitochondria
+
+obj3_cellular_membrane
+	id: 5003
+	type: part
+	display_name_en_us: plasma membrane
+	synonyms_en_us: cell membrane
+
+# Layers
+
+plasma_membrane_layer
+	id: 10
+	type: group
+	display_name_en_us: plasma membrane layer
+	layer: yes
+	hidden: yes
+
+mitochondrion_layer
+	id: 11
+	type: group
+	display_name_en_us: mitochondrion layer
+	layer: yes
+	hidden: yes
+
+nucleus_layer
+	id: 12
+	type: group
+	display_name_en_us: nucleus layer
+	layer: yes
+	hidden: yes
+
+# Groups
+
+cell
+	id: 1
+	type: group
+	hidden: yes
+

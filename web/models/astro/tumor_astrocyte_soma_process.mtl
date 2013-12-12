@@ -1,0 +1,37 @@
+# WaveFront *.mtl file (generated from an IMOD model by imod2obj)
+
+
+
+#MATERIAL FOR OBJECT 1:
+newmtl obj1_Nuclear_Outer_Membrane
+Ka 0 0.139608 0.258824
+Kd 0 0.34902 0.647059
+Ks 0 0.173825 0.322261
+Ns 15.6863
+d 0.37
+Tr 0.37
+
+
+#MATERIAL FOR OBJECT 2:
+newmtl obj2_Mitochondrial_Membrane_Outer
+Ka 0.233726 0 0.4
+Kd 0.584314 0 1
+Ks 0.291011 0 0.498039
+Ns 15.6863
+d 0.16
+Tr 0.16
+
+
+#MATERIAL FOR OBJECT 3:
+newmtl obj3_Cellular_Membrane
+Ka 0.334118 0.4 0.4
+Kd 0.835294 1 1
+Ks 0.416009 0.498039 0.498039
+Ns 15.6863
+d 0.76
+Tr 0.76
+
+
+
+# For more info on MTL file format see:
+#  http://en.wikipedia.org/wiki/Material_Template_Library

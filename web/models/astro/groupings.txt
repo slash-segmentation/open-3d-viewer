@@ -1,0 +1,13 @@
+cell
+	plasma_membrane_layer
+	mitochondrion_layer
+	nucleus_layer
+
+plasma_membrane_layer
+	obj3_cellular_membrane
+
+mitochondrion_layer
+	obj2_mitochondrial_membrane_outer
+
+nucleus_layer
+	obj1_nuclear_outer_membrane

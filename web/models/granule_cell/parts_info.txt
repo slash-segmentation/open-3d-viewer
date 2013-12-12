@@ -1,0 +1,713 @@
+# Parts
+
+obj1_plasma_membrane
+	id: 5001
+	type: part
+	display_name_en_us: plasma membrane
+	synonyms_en_us: cell membrane
+
+obj2_mitochondrion_1
+	id: 5002
+	type: part
+	hidden: yes
+
+obj3_mitochondrion_2
+	id: 5003
+	type: part
+	hidden: yes
+
+obj4_mitochondrion_3
+	id: 5004
+	type: part
+	hidden: yes
+
+obj5_mitochondrion_5
+	id: 5005
+	type: part
+	hidden: yes
+
+obj6_mitochondrion_6
+	id: 5006
+	type: part
+	hidden: yes
+
+obj7_mitochondrion_7
+	id: 5007
+	type: part
+	hidden: yes
+
+obj8_mitochondrion_8
+	id: 5008
+	type: part
+	hidden: yes
+
+obj9_mitochondrion_8
+	id: 5009
+	type: part
+	hidden: yes
+
+obj10_mitochondrion_9
+	id: 5010
+	type: part
+	hidden: yes
+
+obj11_mitochondrion_10
+	id: 5011
+	type: part
+	hidden: yes
+
+obj12_mitochondrion_11
+	id: 5012
+	type: part
+	hidden: yes
+
+obj13_mitochondrion_11
+	id: 5013
+	type: part
+	hidden: yes
+
+obj14_mitochondrion_13
+	id: 5014
+	type: part
+	hidden: yes
+
+obj15_mitochondrion_14
+	id: 5015
+	type: part
+	hidden: yes
+
+obj16_mitochondrion_15
+	id: 5016
+	type: part
+	hidden: yes
+
+obj17_mitochondrion_16
+	id: 5017
+	type: part
+	hidden: yes
+
+obj18_mitochondrion-17
+	id: 5018
+	type: part
+	hidden: yes
+
+obj19_mitochondrion_18
+	id: 5019
+	type: part
+	hidden: yes
+
+obj20_mitochondrion_19
+	id: 5020
+	type: part
+	hidden: yes
+
+obj21_mitochondrion_20
+	id: 5021
+	type: part
+	hidden: yes
+
+obj22_mitochondrion_21
+	id: 5022
+	type: part
+	hidden: yes
+
+obj23_mitochondrion_22
+	id: 5023
+	type: part
+	hidden: yes
+
+obj24_mitochondrion_23
+	id: 5024
+	type: part
+	hidden: yes
+
+obj25_mitochondrion_24
+	id: 5025
+	type: part
+	hidden: yes
+
+obj26_mitochondrion_25
+	id: 5026
+	type: part
+	hidden: yes
+
+obj27_mitochondrion_26
+	id: 5027
+	type: part
+	hidden: yes
+
+obj28_mitochondrion_27
+	id: 5028
+	type: part
+	hidden: yes
+
+obj29_mitochondrion_28
+	id: 5029
+	type: part
+	hidden: yes
+
+obj30_mitochondrion_29
+	id: 5030
+	type: part
+	hidden: yes
+
+obj31_mitochondrion_30
+	id: 5031
+	type: part
+	hidden: yes
+
+obj32_mitochondrion_31
+	id: 5032
+	type: part
+	hidden: yes
+
+obj33_mitochondrion_32
+	id: 5033
+	type: part
+	hidden: yes
+
+obj34_mitochondrion_33
+	id: 5034
+	type: part
+	hidden: yes
+
+obj35_mitochondrion_34
+	id: 5035
+	type: part
+	hidden: yes
+
+obj36_mitochondrion_35
+	id: 5036
+	type: part
+	hidden: yes
+
+obj37_mitochondrion_36
+	id: 5037
+	type: part
+	hidden: yes
+
+obj38_mitochondrion_37
+	id: 5038
+	type: part
+	hidden: yes
+
+obj39_mitochondrion_38
+	id: 5039
+	type: part
+	hidden: yes
+
+obj40_mitochondrion_39
+	id: 5040
+	type: part
+	hidden: yes
+
+obj41_mitochondrion_40
+	id: 5041
+	type: part
+	hidden: yes
+
+obj42_mitochondrion_41
+	id: 5042
+	type: part
+	hidden: yes
+
+obj43_mitochondrion_42
+	id: 5043
+	type: part
+	hidden: yes
+
+obj44_mitochondrion_43
+	id: 5044
+	type: part
+	hidden: yes
+
+obj45_mitochondrion_44
+	id: 5045
+	type: part
+	hidden: yes
+
+obj46_mitochondrion_45
+	id: 5046
+	type: part
+	hidden: yes
+
+obj47_mitochondrion_46
+	id: 5047
+	type: part
+	hidden: yes
+
+obj48_mitochondrion_47
+	id: 5048
+	type: part
+	hidden: yes
+
+obj49_mitochondrion_48
+	id: 5049
+	type: part
+	hidden: yes
+
+obj50_mitochondrion_49
+	id: 5050
+	type: part
+	hidden: yes
+
+obj51_mitochondrion_50
+	id: 5051
+	type: part
+	hidden: yes
+
+obj52_mitochondrion_51
+	id: 5052
+	type: part
+	hidden: yes
+
+obj53_mitochondrion_52
+	id: 5053
+	type: part
+	hidden: yes
+
+obj54_mitochondrion_53
+	id: 5054
+	type: part
+	hidden: yes
+
+obj55_mitochondrion_54
+	id: 5055
+	type: part
+	hidden: yes
+
+obj56_mitochondrion_55
+	id: 5056
+	type: part
+	hidden: yes
+
+obj57_mitochondrion_56
+	id: 5057
+	type: part
+	hidden: yes
+
+obj58_mitochondrion_57
+	id: 5058
+	type: part
+	hidden: yes
+
+obj59_mitochondrion_58
+	id: 5059
+	type: part
+	hidden: yes
+
+obj60_mitochondrion_59
+	id: 5060
+	type: part
+	hidden: yes
+
+obj61_mitochondrion_60
+	id: 5061
+	type: part
+	hidden: yes
+
+obj62_mitochondrion_61
+	id: 5062
+	type: part
+	hidden: yes
+
+obj63_mitochondrion_62
+	id: 5063
+	type: part
+	hidden: yes
+
+obj64_mitochondrion_63
+	id: 5064
+	type: part
+	hidden: yes
+
+obj65_mitochondrion_64
+	id: 5065
+	type: part
+	hidden: yes
+ 
+obj66_mitochondrion_65
+	id: 5066
+	type: part
+	hidden: yes
+
+obj67_mitochondrion_66
+	id: 5067
+	type: part
+	hidden: yes
+
+obj68_mitochondrion_67
+	id: 5068
+	type: part
+	hidden: yes
+
+obj69_mitochondrion_68
+	id: 5069
+	type: part
+	hidden: yes
+
+obj70_mitochondrion_69
+	id: 5070
+	type: part
+	hidden: yes
+
+obj71_mitochondrion_70
+	id: 5071
+	type: part
+	hidden: yes
+
+obj72_mitochondrion_71
+	id: 5072
+	type: part
+	hidden: yes
+
+obj73_mitochondrion_72
+	id: 5073
+	type: part
+	hidden: yes
+
+obj74_mitochondrion_73
+	id: 5074
+	type: part
+	hidden: yes
+
+obj75_mitochondrion_74
+	id: 5075
+	type: part
+	hidden: yes
+
+obj76_mitochondrion_75
+	id: 5076
+	type: part
+	hidden: yes
+
+obj77_mitochondrion_76
+	id: 5077
+	type: part
+	hidden: yes
+
+obj78_mitochondrion_77
+	id: 5078
+	type: part
+	hidden: yes
+
+obj79_mitochondrion_78
+	id: 5079
+	type: part
+	hidden: yes
+
+obj80_mitochondrion_79
+	id: 5080
+	type: part
+	hidden: yes
+
+obj81_mitochondrion_80
+	id: 5081
+	type: part
+	hidden: yes
+
+obj82_mitochondrion_81
+	id: 5082
+	type: part
+	hidden: yes
+
+obj83_mitochondrion_82
+	id: 5083
+	type: part
+	hidden: yes
+
+obj84_mitochondrion_83
+	id: 5084
+	type: part
+	hidden: yes
+
+obj85_mitochondrion_84
+	id: 5085
+	type: part
+	hidden: yes
+
+obj86_mitochondrion_85
+	id: 5086
+	type: part
+	hidden: yes
+
+obj87_dggc_mbo_nucleus_001
+	id: 5087
+	type: part
+	display_name_en_us: nuclear membrane
+	synonyms_en_us: nucleus
+
+obj88_gc_mbo_lysosome_002
+	id: 5088
+	type: part
+	hidden: yes
+
+obj89_gc_mbo_lysosome_003
+	id: 5089
+	type: part
+	hidden: yes
+
+obj90_gc_mbo_lysosome_004
+	id: 5090
+	type: part
+	hidden: yes
+
+obj91_gc_mbo_lysosome_005
+	id: 5091
+	type: part
+	hidden: yes
+
+obj92_gc_mbo_lysosome_006
+	id: 5092
+	type: part
+	hidden: yes
+
+obj93_gc_mbo_lysosome_007
+	id: 5093
+	type: part
+	hidden: yes
+
+obj94_gc_mbo_lysosome_008
+	id: 5094
+	type: part
+	hidden: yes
+
+obj95_gc_mbo_lysosome_010
+	id: 5095
+	type: part
+	hidden: yes
+
+obj96_gc_mbo_lysosome_011
+	id: 5096
+	type: part
+	hidden: yes
+
+obj97_gc_mbo_lysosome_012
+	id: 5097
+	type: part
+	hidden: yes
+
+obj98_gc_mbo_lysosome_013
+	id: 5098
+	type: part
+	hidden: yes
+
+obj99_
+	id: 5099
+	type: part
+	hidden: yes
+
+obj100_gc_mbo_lysosome_014
+	id: 5100
+	type: part
+	hidden: yes
+
+obj101_gc_mbo_lysosome_015
+	id: 5101
+	type: part
+	hidden: yes
+
+obj102_
+	id: 5102
+	type: part
+	hidden: yes
+
+obj103_gc_mbo_lysosome_016
+	id: 5103
+	type: part
+	hidden: yes
+
+obj104_
+	id: 5104
+	type: part
+	hidden: yes
+
+obj105_gc_mbo_lysosome_016
+	id: 5105
+	type: part
+	hidden: yes
+
+obj106_gc_mbo_lysosome_017
+	id: 5106
+	type: part
+	hidden: yes
+
+obj107_gc_mbo_lysosome_019
+	id: 5107
+	type: part
+	hidden: yes
+
+obj108_gc_mbo_lysosome_020
+	id: 5108
+	type: part
+	hidden: yes
+
+obj109_gc_mbo_lysosome_021
+	id: 5109
+	type: part
+	hidden: yes
+
+obj110_gc_mbo_lysosome_022
+	id: 5110
+	type: part
+	hidden: yes
+
+obj111_gc_mbo_lysosome_023
+	id: 5111
+	type: part
+	hidden: yes
+
+obj112_gc_mbo_lysosome_025
+	id: 5112
+	type: part
+	hidden: yes
+
+obj113_gc_mbo_lysosome_025
+	id: 5113
+	type: part
+	hidden: yes
+
+obj114_gc_mbo_lysosome_027
+	id: 5114
+	type: part
+	hidden: yes
+
+obj115_
+	id: 5115
+	type: part
+	hidden: yes
+
+obj116_gc_mbo_lysosome_029
+	id: 5116
+	type: part
+	hidden: yes
+
+obj117_
+	id: 5117
+	type: part
+	hidden: yes
+
+obj118_gc_mbo_lysosome_030s
+	id: 5118
+	type: part
+	hidden: yes
+
+obj119_gc_mbo_lysosome_027
+	id: 5119
+	type: part
+	hidden: yes
+
+obj120_gc_mbo_lysosome_030
+	id: 5120
+	type: part
+	hidden: yes
+
+obj121_
+	id: 5121
+	type: part
+	hidden: yes
+
+obj122_
+	id: 5122
+	type: part
+	hidden: yes
+
+obj123_
+	id: 5123
+	type: part
+	hidden: yes
+
+obj124_
+	id: 5124
+	type: part
+	hidden: yes
+
+obj125_
+	id: 5125
+	type: part
+	hidden: yes
+
+obj126_
+	id: 5126
+	type: part
+	hidden: yes
+
+obj127_
+	id: 5127
+	type: part
+	hidden: yes
+
+obj128_lysosome
+	id: 5128
+	type: part
+	hidden: yes
+
+obj129_lysosome_3
+	id: 5129
+	type: part
+	hidden: yes
+
+obj130_lysosome_6
+	id: 5130
+	type: part
+	hidden: yes
+
+obj131_lysosome_7
+	id: 5131
+	type: part
+	hidden: yes
+
+obj132_lysosome_8
+	id: 5132
+	type: part
+	hidden: yes
+
+obj133_lysosome_9
+	id: 5133
+	type: part
+	hidden: yes
+
+obj134_lysosome_10
+	id: 5134
+	type: part
+	hidden: yes
+
+obj135_lysosome_11
+	id: 5135
+	type: part
+	hidden: yes
+
+
+# Layers
+
+plasma_membrane_layer
+	id: 10
+	type: group
+	layer: yes
+	hidden: yes
+
+lysosome_layer
+	id: 11
+	type: group
+	display_name_en_us: lysosomes
+	layer: yes
+    
+mitochondrion_layer
+	id: 12
+	type: group
+	display_name_en_us: mitochondria
+	layer: yes
+
+nucleus_layer
+	id: 13
+	type: group
+	layer: yes
+	hidden: yes
+
+
+# Groups
+
+cell
+	id: 1
+	type: group
+	hidden: yes
